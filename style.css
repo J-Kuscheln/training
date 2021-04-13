@@ -28,13 +28,43 @@
  .buttons#judul {
 	 
  }
+ 
+ .judul{
+	 color:white;
+ }
+ 
+ .guild_master{
+	 color:white;
+ }
+ 
+ .vice_master {
+	 color:white;
+ }
+ 
+ body{
+	 background-image: url(Sprite/background.jpg);
+	 width:100%;
+	 height:100%
+ }
 
 .gm_content#gm_text {
 	display:inline-block;
+	color:white;
 	
 }
 
  .gm_content#gm_photo{
+	 width: 10cm;
+	 vertical-align: middle;
+ }
+ 
+ .vice_content#vice_text {
+	display:inline-block;
+	color:white;
+	
+}
+
+ .vice_content#vice_photo{
 	 width: 10cm;
 	 vertical-align: middle;
  }

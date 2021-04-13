@@ -44,7 +44,9 @@
  body{
 	 background-image: url(Sprite/background.jpg);
 	 width:100%;
-	 height:100%
+	 height:100%;
+	 background-repeat:no-repeat;
+	 background-attachment:fixed;
  }
 
 .gm_content#gm_text {

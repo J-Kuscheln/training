@@ -1,0 +1,41 @@
+ .judul {
+	 
+ }
+ 
+ #logo {
+	 width: 50px;
+	 vertical-align:middle;
+ }
+ 
+ .buttons{
+	
+ }
+ 
+ .buttons:active{
+	 background:none;
+	 border:0px;
+ }
+ 
+  .buttons:hover{
+	 background:none;
+	 border:2px;
+ }
+ .buttons:visited{
+	 background:#22f;
+	 border:0px;
+ }
+ 
+ .buttons#judul {
+	 
+ }
+
+.gm_content#gm_text {
+	display:inline-block;
+	
+}
+
+ .gm_content#gm_photo{
+	 width: 10cm;
+	 vertical-align: middle;
+ }
+ 
